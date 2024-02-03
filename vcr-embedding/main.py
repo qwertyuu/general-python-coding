@@ -30,8 +30,37 @@ for i in range(len(new_data)):
 
 # plot the embeddings in 2D, including the ID of the cassettes (contained in the json file as "ID")
 
-fit = umap.UMAP(n_components=3)
-X = fit.fit_transform(np.array(embeddings))
+from sklearn.cluster import KMeans
+import numpy as np
+
+# Vos embeddings de texte
+#embeddings = [...]  # Insérez vos embeddings ici
+
+# Nombre de clusters souhaité
+k = 10
+X = umap.UMAP(n_components=3).fit_transform(np.array(embeddings))
+
+# Entraînement du modèle K-means
+kmeans = KMeans(n_clusters=k)
+kmeans = kmeans.fit(X)
+
+labels = kmeans.predict(X)
+
+print(labels)
+
+
+clustered = pd.DataFrame({
+    "labels": labels,
+    "IDs": IDs,
+    "Description": new_data,
+}).sort_values(by="labels")
+
+# Affichage des étiquettes de cluster
+print(clustered)
+
+clustered.to_csv("vcr-embedding/clustered.csv")
+
+
 #pca = PCA(n_components=2)
 #pca.fit(embeddings)
 #X = pca.transform(embeddings)
@@ -43,7 +72,7 @@ x_data = pd.DataFrame(X, columns=["x", "y", "z"])
 x_data["IDs"] = IDs
 x_data["Description"] = new_data
 
-
+exit()
 # Créer le nuage de points interactif en 3D
 fig = px.scatter_3d(x_data, x="x", y="y", z="z", text="IDs", title="Cassettes VCR", hover_data=['Description'], template='plotly_dark')
 fig.update_layout(
