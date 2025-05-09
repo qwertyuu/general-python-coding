@@ -1,0 +1,1045 @@
+page_content='Scottish Medicines Consortium (SMC) decisions
+▶ Dapagliflozin with metformin (Xigduo ®) for use in adults with
+type 2 diabetes mellitus as an adjunct to diet and exercise to
+improve glycaemic control: in patients inadequately
+controlled on their maximally tolerated dose of metformin
+alone; in combination with other glucose-lowering medicinal
+products, including insulin, in patients inadequately
+controlled with metformin and these medicinal products; in
+patients already being treated with the combination of
+dapagliflozin and metformin as separate tablets (August
+2014) SMC No. 983/14Recommended with restrictions
+l MEDICINAL FORMS There can be variation in the licensing of
+different medicines containing the same drug.
+Tablet
+CAUTIONARY AND ADVISORY LABELS 21
+▶ Xigduo (AstraZeneca UK Ltd)
+Dapagliflozin (as Dapagliflozin propanediol monohydrate) 5 mg,
+Metformin hydrochloride 850 mgXigduo 5mg/850mg tablets |
+56 tablet P £36.59 DT = £36.59
+Dapagliflozin (as Dapagliflozin propanediol monohydrate) 5 mg,
+Metformin hydrochloride 1 gramXigduo 5mg/1000mg tablets |
+56 tablet P £36.59 DT = £36.59
+Empagliflozin 07-Jul-2022
+l DRUG ACTION Reversibly inhibits sodium-glucose co-
+transporter 2 (SGLT2) in the renal proximal convoluted
+tubule to reduce glucose reabsorption and increase urinary
+glucose excretion.
+l INDICATIONS AND DOSE
+Type 2 diabetes mellitus as monotherapy (if metformin
+inappropriate) | Type 2 diabetes mellitus in combination
+with insulin or other antidiabetic drugs (if existing
+treatment fails to achieve adequate glycaemic control)
+▶ BY MOUTH
+▶ Adult: 10 mg once daily, increased to25 mg once daily
+if necessary and if tolerated
+Symptomatic chronic heart failure
+▶ BY MOUTH
+▶ Adult: 10 mg once daily
+DOSE ADJUSTMENTS DUE TO INTERACTIONS
+▶ Dose of concomitant insulin or drugs that stimulate
+insulin secretion may need to be reduced.
+IMPORTANT SAFETY INFORMATION
+MHRA/CHM ADVICE (UPDATED APRIL 2016): RISK OF DIABETIC
+KETOACIDOSIS WITH SODIUM-GLUCOSE CO-TRANSPORTER 2
+(SGLT2) INHIBITORS (CANAGLIFLOZIN, DAPAGLIFLOZIN OR
+EMPAGLIFLOZIN)
+A review by the European Medicines Agency has
+concluded that serious, life-threatening, and fatal cases
+of diabetic ketoacidosis (DKA) have been reported rarely
+in patients taking an SGLT2 inhibitor. In several cases,
+the presentation of DKA was atypical with patients
+having only moderately elevated blood glucose levels,
+and some of them occurred during off-label use.
+To minimise the risk of such effects when treating
+patients with a SGLT2 inhibitor, the European Medicines
+Agency has issued the following advice:
+. inform patients of the signs and symptoms of DKA,
+(including rapid weight loss, nausea or vomiting,
+abdominal pain, fast and deep breathing, sleepiness, a
+sweet smell to the breath, a sweet or metallic taste in
+the mouth, or a different odour to urine or sweat), and
+advise them to seek immediate medical advice if they
+develop any of these
+. test for raised ketones in patients with signs and
+symptoms of DKA, even if plasma glucose levels are
+near-normal
+. use empagliﬂozin with caution in patients with risk
+factors for DKA, (including a low beta cell reserve,
+conditions leading to restricted food intake or severe
+dehydration, sudden reduction in insulin, increased
+insulin requirements due to acute illness, surgery or
+alcohol abuse), and discuss these risk factors with
+patients
+. discontinue treatment if DKA is suspected or
+diagnosed
+. do not restart treatment with any SGLT2 inhibitor in
+patients who experienced DKA during use, unless
+another cause for DKA was identiﬁed and resolved
+. interrupt SGLT2 inhibitor treatment in patients who
+are hospitalised for major surgery or acute serious
+illnesses; treatment may be restarted once the
+patient’s condition has stabilised
+MHRA/CHM ADVICE: SGLT2 INHIBITORS: MONITOR KETONES IN
+BLOOD DURING TREATMENT INTERRUPTION FOR SURGICAL
+PROCEDURES OR ACUTE SERIOUS MEDICAL ILLNESS (MARCH
+2020)
+New recommendations have been issued following a
+European review of peri-operative diabetic ketoacidosis
+in patients taking SGLT2 inhibitors. Healthcare
+professionals are advised to monitor ketone levels
+during SGLT2 inhibitor treatment interruption in
+patients who have been hospitalised for major surgery or
+acute serious illness— measurement of blood ketone
+levels is preferred to urine. Treatment may be restarted
+once ketone levels are normal and the patient’s
+condition has stabilised.
+MHRA/CHM ADVICE: SGLT2 INHIBITORS: REPORTS OF FOURNIER ’S
+GANGRENE (NECROTISING FASCIITIS OF THE GENITALIA OR
+PERINEUM) (FEBRUARY 2019)
+Fournier’s gangrene, a rare but serious and potentially
+life-threatening infection, has been associated with the
+use of sodium-glucose co-transporter2 (SGLT2)
+inhibitors. If Fournier’s gangrene is suspected, stop the
+SGLT2 inhibitor and urgently start treatment (including
+antibiotics and surgical debridement).
+Patients should be advised to seek urgent medical
+attention if they experience severe pain, tenderness,
+erythema, or swelling in the genital or perineal area,
+accompanied by fever or malaise— urogenital infection
+or perineal abscess may precede necrotising fasciitis.
+l CONTRA-INDICATIONS Diabetic ketoacidosis
+l CAUTIONS Complicated urinary tract infections— consider
+temporarily interrupting treatment.elderly . hypotension .
+risk of volume depletion
+CAUTIONS, FURTHER INFORMATION
+▶ Volume depletion g Correct hypovolaemia before
+starting treatment. Consider interrupting treatment if
+volume depletion occurs.M
+▶ Elderly g Increased risk of volume depletion in patients
+aged 75 years and older.M
+l INTERACTIONS → Appendix 1: sodium glucose co-
+transporter 2 inhibitors
+l SIDE-EFFECTS
+▶ Common or very commonBalanoposthitis . constipation .
+hypoglycaemia (in combination with insulin or
+sulfonylurea) . hypovolaemia (more common in elderly).
+increased risk of infection. skin reactions.thirst . urinary
+disorders .urosepsis
+▶ Uncommon Angioedema
+▶ Rare or very rareDiabetic ketoacidosis (discontinue
+immediately)
+▶ Frequency not knownFournier’s gangrene (discontinue
+and initiate treatment promptly)
+l PREGNANCY Manufacturer advises avoid— toxicity in
+animal studies.
+786 Diabetes mellitus and hypoglycaemia BNF 85
+Endocrine system
+6
+https://www.facebook.com/codemedicalapps/
+(Books-Courses-Medical Applications)' metadata={'creationdate': '2023-07-18T15:17:04+03:30', 'creator': 'PDF Shaper', 'author': 'someAuthor', 'moddate': '2023-12-14T07:53:00+00:00', 'page': 804, 'total_pages': 1906, 'producer': 'iLovePDF', 'pk': 456198705166157026, 'username': '', 'library': '', 'source': 'C:\\Users\\USER\\Documents\\hackathon\\British National Formulary (BNF85) March to September 2023.pdf', 'page_label': '786'}
+page_content='Dacogen, 998
+Dacomitinib, 1068
+Dailiport, 922
+DailyD, 1202
+Daktacort, 1370
+Daktarin preparations, 1337, 1352
+Dalacin preparations, 590, 908, 1390
+Dalbavancin, 585
+Dalmane, 525
+Dalteparin sodium,145
+Danamep, 135
+Danaparoid sodium,144
+Dandrazol, 1351
+Dantrium preparations, 1488
+Dantrolene sodium,1487
+Dantron with docusate sodium,see Co-
+danthrusate
+Dantron with poloxamer 188,see Co-
+danthramer
+Dapagliﬂozin, 784
+▶ with metformin,785
+▶ with saxagliptin,see Saxagliptin with
+dapagliﬂozin
+Dapoxetine, 898
+Dapsone, 637
+Daptomycin, 628
+Daraprim, 682
+Daratumumab, 952
+Darbepoetin alfa,1116
+Darifenacin, 850
+Dario, 801
+Dario Lite, 801
+Darolutamide, 1037
+Darunavir, 721
+▶ with cobicistat,721
+▶ with cobicistat, emtricitabine and
+tenofovir alafenamide,722
+Darzalex, 953
+Dasatinib, 1069
+Daunorubicin, 989
+▶ with cytarabine,989
+Daurismo, 1105
+Daxas, 296
+DDAVP, 732
+DDAVP Melt, 732
+Debridement pads, physical,see Physical
+debridement pads
+DebriSoft, 1819
+Decapeptyl SR, 812
+Decitabine, 998
+Dectova, 729
+Defective medicines,14
+Deferasirox, 1134
+Deferiprone, 1135
+Deferoxamine Mesilate,see
+Desferrioxamine mesilate
+Deﬂazacort, 752
+Degarelix, 1038
+DEKAs preparations, 1787, 1788
+Delaﬂoxacin, 617
+Delamanid, 646
+Delirium tremens,535
+Delmosart, 385
+Deloﬁne XL, 177
+Delstrigo, 718
+Deltyba, 646
+Demeclocycline hydrochloride,623
+Dementia, 328
+Denela, 1496
+Denosumab, 744
+Dental Advisory Group,vii
+Dental anaesthesia,1488
+Dental caries,1330
+Dental pain,480
+▶ in dental practice,31
+Dental practice, prescribing in,31
+Dental Practitioners’Formulary, 1828
+Dentinox preparations, 76
+Denture stomatitis,1336
+Denzapine, 436
+Depakote, 392
+Depalta, 406
+Depixol, 423, 430
+Deponit, 240
+Depression, 395
+Dequalinium chloride,908
+Derbac-M, 1355
+Dermabond, 1402
+Dermacolor preparations, 1403
+Dermacool, 1387
+Dermacort, 1365
+Derma+Flex, 1402
+Dermalo, 1342
+DermaSilk products, 1823
+Dermatix, 1818
+Dermatix products, 1818
+Dermatological preparations, suitable
+quantities for prescribing table,1338
+Dermatonics Once, 1346
+Dermatophytoses, 1347
+Dermax, 1397
+Dermol preparations, 1340, 1341, 1343
+Dermovate preparations, 1363
+Descovy, 716
+Desferal, 1136
+Desferrioxamine mesilate,1136
+Desﬂurane, 1470
+Desitrend, 352, 353
+Desizon, 369
+Desloratadine, 305
+Desloughing agents,1398
+DesmoMelt, 733
+Desmopressin, 731
+Desmospray, 732
+Desmotabs, 732
+Desogestrel, 883
+▶ with ethinylestradiol,see
+Ethinylestradiol with desogestrel
+Desomono, 884
+Desorex, 884
+Destolit, 96
+Desunin, 1201
+Detrunorm preparations, 853
+Detrusitol preparations, 854
+Devices, adverse reactions to,12
+Dexafree, 1276
+Dexamethasone
+▶ Endocrine system,752
+▶ Eye, 1276
+▶ Musculoskeletal system,1269
+▶ with ciproﬂoxacin, see Ciproﬂoxacin
+with dexamethasone
+▶ with glacial acetic acid and neomycin
+sulfate, 1316
+▶ with hypromellose, neomycin and
+polymyxin B sulfate,1278
+▶ with levoﬂoxacin, 1293
+▶ with netilmicin,1278
+▶ with tobramycin,1279
+Dexamethasone with framycetin sulfate
+and gramicidin
+▶ Ear, 1315
+▶ Eye, 1278
+Dexamfetamine sulfate,386
+Dexamphetamine sulfate,see
+Dexamfetamine sulfate
+Dexdor, 1487
+Dexedrine preparations, 387
+Deximune, 919
+Dexipress MR, 180
+Dexketoprofen, 1249
+▶ with tramadol,see Tramadol with
+dexketoprofen
+Dexmedetomidine, 1486
+Dexrazoxane, 1029
+Dexsol, 753
+Dextran 70 and hypromellose,see
+Hypromellose with dextran 70
+Dextrogel, 1154
+Dextrose Monohydrate,see Glucose
+DF 118, 494
+D-Gam, 1413
+DHC Continus, 494
+Diabact UBT, 90
+Diabetes, 761
+▶ alcohol, 761
+▶ diagnosis and monitoring,799
+▶ driving, 761
+▶ gestational, 771
+▶ HbA1c measurement,761
+▶ oral glucose tolerance tests,761
+▶ pregnancy and breast-feeding,770
+▶ surgery and medical illness,769
+Diabetes insipidus,730
+Diabetes mellitus,761
+▶ and hypoglycaemia,761
+Diabetes mellitus, diagnostic and
+monitoring devices,799
+▶ blood glucose monitoring,799
+▶ urinalysis, 799
+Diabetes mellitus type 1,762
+Diabetes mellitus type 2,765
+Diabetic complications,767
+▶ cardiovascular disease,767
+▶ nephropathy, 767
+▶ neuropathy, 767
+▶ visual impairment,768
+Diabetic foot infections, antibacterial
+therapy, 553
+Diabetic hyperglycaemic emergencies,
+768
+Diabetic ketoacidosis,768
+Diacomit, 364, 365
+Diafer, 1128
+Diagemet XL, 773
+Diagnostic agents, other,90, 1418
+Dialamine, 1786
+Diamicron preparations, 789, 790
+Diamorphine hydrochloride,493
+▶ and morphine sulfate dose
+equivalence table,29
+Diamox preparations, 1296
+Dianette, 1390
+Diarrhoea, 68
+▶ acute, 68
+Diastix, 802
+Diazepam, 379
+Diazoxide, 804
+Diclofenac, 1333
+Diclofenac potassium,1250
+Diclofenac sodium
+▶ Eye, 1292
+▶ Musculoskeletal system,1251
+▶ with misoprostol,1253
+Dicloﬂex preparations, 1252
+Diclomax preparations, 1253
+Diclo-SR, 1252
+Dicobalt edetate,1508
+Dicyclomine hydrochloride,see
+Dicycloverine hydrochloride
+Dicycloverine hydrochloride,91
+▶ with aluminium hydroxide,
+magnesium oxide and simeticone,91
+Dienogest, 833
+▶ with estradiol valerate,874
+1852 Dacogen – Dienogest BNF 85
+INDEX
+https://www.facebook.com/codemedicalapps/
+(Books-Courses-Medical Applications)' metadata={'creationdate': '2023-07-18T15:17:04+03:30', 'creator': 'PDF Shaper', 'author': 'someAuthor', 'moddate': '2023-12-14T07:53:00+00:00', 'page': 1870, 'total_pages': 1906, 'producer': 'iLovePDF', 'pk': 456198705166158096, 'username': '', 'library': '', 'source': 'C:\\Users\\USER\\Documents\\hackathon\\British National Formulary (BNF85) March to September 2023.pdf', 'page_label': '1852'}
+page_content='▶ Manufacturer advises monitor volume status and
+electrolytes during treatment in patients at risk of volume
+depletion.
+l PATIENT AND CARER ADVICE Manufacturer advises that
+patients should be informed of the signs and symptoms of
+diabetic ketoacidosis, see MHRA advice.
+l NATIONAL FUNDING/ACCESS DECISIONS
+For full details see funding body website
+NICE decisions
+▶ Ertugliflozin as monotherapy or with metformin for treating
+type 2 diabetes (March 2019)NICE TA572Recommended with
+restrictions
+▶ Ertugliflozin with metformin and a dipeptidyl peptidase-4
+inhibitor for treating type 2 diabetes (June 2019)NICE TA583
+Recommended with restrictions
+Scottish Medicines Consortium (SMC) decisions
+▶ Ertugliflozin (Steglatro ®) in adults with type 2 diabetes
+mellitus as an adjunct to diet and exercise to improve
+glycaemic control: as monotherapy in patients for whom the
+use of metformin is considered inappropriate due to
+intolerance or contra-indications; in addition to other
+medicinal products for the treatment of diabetes (January
+2019) SMC No. SMC2102Recommended with restrictions
+l MEDICINAL FORMS There can be variation in the licensing of
+different medicines containing the same drug.
+Tablet
+▶ Steglatro (Merck Sharp & Dohme (UK) Ltd)A
+Ertugliflozin (as Ertugliflozin L-pyroglutamic acid) 5 mgSteglatro
+5mg tablets | 28 tablet P £29.40 DT = £29.40
+Ertugliflozin (as Ertugliflozin L-pyroglutamic acid)
+15 mg Steglatro 15mg tablets | 28 tablet P £29.40 DT = £29.40
+BLOOD GLUCOSE LOWERING DRUGS ›
+SULFONYLUREAS
+fSulfonylureas
+l DRUG ACTION The sulfonylureas act mainly by augmenting
+insulin secretion and consequently are effective only when
+some residual pancreatic beta-cell activity is present;
+during long-term administration they also have an
+extrapancreatic action.
+l CONTRA-INDICATIONS Presence of ketoacidosis
+l CAUTIONS Can encourage weight gain.elderly . G6PD
+deﬁciency
+CAUTIONS, FURTHER INFORMATION
+▶ Elderly Prescription potentially inappropriate (STOPP
+criteria) if prescribed along-acting sulfonylurea (e.g.
+glibenclamide, chlorpropamide, glimepiride) in type2
+diabetes mellitus (risk of prolonged hypoglycaemia).
+See also Prescribing in the elderly p.29.
+l SIDE-EFFECTS
+▶ Common or very commonAbdominal pain. diarrhoea .
+hypoglycaemia . nausea
+▶ Uncommon Hepatic disorders. vomiting
+▶ Rare or very rareAgranulocytosis . erythropenia .
+granulocytopenia . haemolytic anaemia. leucopenia .
+pancytopenia . thrombocytopenia
+▶ Frequency not knownAllergic dermatitis (usually in the
+ﬁrst 6–8 weeks of therapy).constipation . photosensitivity
+reaction . skin reactions. visual impairment
+l HEPATIC IMPAIRMENT In general, manufacturers advise
+avoid in severe impairment (increased risk of
+hypoglycaemia).
+l RENAL IMPAIRMENT Sulfonylureas should be used with
+care in those with mild to moderate renal impairment,
+because of the hazard of hypoglycaemia. Care is required
+to use the lowest dose that adequately controls blood
+glucose. Avoid where possible in severe renal impairment.
+l PATIENT AND CARER ADVICE The risk of hypoglycaemia
+associated with sulfonylureas should be discussed with the
+patient, especially when concomitant glucose-lowering
+drugs are prescribed.
+Driving and skilled tasksDrivers need to be particularly
+careful to avoid hypoglycaemia and should be warned of
+the problems.
+eiiiiFabove
+Gliclazide 10-Mar-2020
+l INDICATIONS AND DOSE
+Type 2 diabetes mellitus
+▶ BY MOUTH USING IMMEDIATE-RELEASE MEDICINES
+▶ Adult: Initially 40–80 mg daily, adjusted according to
+response, increased if necessary up to160 mg once
+daily, dose to be taken with breakfast, doses higher
+than 160 mg to be given in divided doses; maximum
+320 mg per day
+▶ BY MOUTH USING MODIFIED-RELEASE MEDICINES
+▶ Adult: Initially 30 mg daily, dose to be taken with
+breakfast, adjust dose according to response every
+4 weeks (after2 weeks if no decrease in blood glucose);
+maximum 120 mg per day
+DOSE EQUIVALENCE AND CONVERSION
+▶ Gliclazide modiﬁed release30 mg may be considered to
+be approximately equivalent in therapeutic effect to
+standard formulation gliclazide80 mg.
+l CONTRA-INDICATIONS Avoid where possible in Acute
+porphyrias p.1171
+l INTERACTIONS → Appendix 1: sulfonylureas
+l SIDE-EFFECTS Anaemia . angioedema . dyspepsia .
+gastrointestinal disorder.hypersensitivity vasculitis.
+hyponatraemia . severe cutaneous adverse reactions
+(SCARs)
+l PREGNANCY The use of sulfonylureas in pregnancy should
+generally be avoided because of the risk of neonatal
+hypoglycaemia.
+l BREAST FEEDING Avoid— theoretical possibility of
+hypoglycaemia in the infant.
+l RENAL IMPAIRMENT If necessary, gliclazide which is
+principally metabolised in the liver, can be used in renal
+impairment but careful monitoring of blood-glucose
+concentration is essential.
+l MEDICINAL FORMS There can be variation in the licensing of
+different medicines containing the same drug. Forms available
+from special-order manufacturers include: oral suspension
+Modified-release tablet
+CAUTIONARY AND ADVISORY LABELS 25
+▶ Gliclazide (Non-proprietary)
+Gliclazide 30 mgGliclazide 30mg modified-release tablets|
+28 tablet P £2.81– £3.34 DT = £2.81 | 56 tablet P £6.61
+Gliclazide 60 mgGliclazide 60mg modified-release tablets|
+28 tablet P £5.62 DT = £5.62 | 56 tablet P £10.47
+▶ Dacadis MR(Viatris UK Healthcare Ltd)
+Gliclazide 30 mgDacadis MR30mg tablets | 28 tablet P £2.81
+DT = £2.81 | 56 tablet P £5.62
+▶ Diamicron MR(Servier Laboratories Ltd)
+Gliclazide 30 mgDiamicron 30mg MR tablets| 28 tablet P
+£2.81 DT = £2.81 | 56 tablet P £5.62
+▶ Edicil MR(Teva UK Ltd)
+Gliclazide 30 mgEdicil MR30mg tablets | 28 tablet P £1.99 DT
+=£ 2.81 | 56 tablet P £5.24
+▶ Laaglyda MR(Consilient Health Ltd)
+Gliclazide 60 mgLaaglyda MR60mg tablets | 28 tablet P £5.62
+DT = £5.62
+▶ Lamzarin (Key Pharmaceuticals Ltd)
+Gliclazide 30 mgLamzarin 30mg modified-release tablets|
+28 tablet P £2.81 DT = £2.81 | 56 tablet P £5.62
+Gliclazide 60 mgLamzarin 60mg modified-release tablets|
+28 tablet P £4.77 DT = £5.62
+BNF 85 Diabetes mellitus 789
+Endocrine system
+6
+https://www.facebook.com/codemedicalapps/
+(Books-Courses-Medical Applications)' metadata={'creationdate': '2023-07-18T15:17:04+03:30', 'creator': 'PDF Shaper', 'author': 'someAuthor', 'moddate': '2023-12-14T07:53:00+00:00', 'page': 807, 'total_pages': 1906, 'producer': 'iLovePDF', 'pk': 456198705166157029, 'username': '', 'library': '', 'source': 'C:\\Users\\USER\\Documents\\hackathon\\British National Formulary (BNF85) March to September 2023.pdf', 'page_label': '789'}
+page_content='beneﬁt to the patient should be reviewed regularly and
+treatment stopped if response is insufﬁcient.
+Dipeptidylpeptidase-4 (DPP-4) inhibitors, such as
+alogliptin p.773, linagliptin p.774, sitagliptin p.776,
+saxagliptin p.774, and vildagliptin p.776, do not appear to
+be associated with weight gain and have less incidence of
+hypoglycaemia than the sulfonylureas.
+Sodium glucose co-transporter2 (SGLT2) inhibitors, such
+as canagliﬂozin p.783, dapagliﬂozin p.784, empagliﬂozin
+p. 786, and ertugliﬂozin p.788, in addition to lowering
+blood-glucose, may promote weight loss and improve
+cardiovascular outcomes in certain patients. There is greater
+uncertainty around the cardiovascular beneﬁts associated
+with ertugliﬂozin than there is for canagliﬂozin,
+dapagliﬂozin, and empagliﬂozin. SGLT2 inhibitors are
+associated with a risk of diabetic ketoacidosis. For
+information on the use of SGLT2 inhibitors in patients with
+type 2 diabetes and chronic kidney disease, seeDiabetic
+nephropathy in Diabetic complications p.767.
+Glucagon-like peptide-1 (GLP-1) receptor agonists, such
+as dulaglutide p.777, exenatide p.778, liraglutide p.779,
+lixisenatide p.780, and semaglutide p.781, should be
+reserved for combination therapy when other treatment
+options have failed. GLP-1 receptor agonists promote weight
+loss, and for some patients may improve cardiovascular
+outcomes.
+Drug treatment, antidiabetic drugs
+g Consider rescue therapy with insulin or a sulfonylurea
+for patients who become symptomatically hyperglycaemic at
+any stage of treatment. Treatment should be reviewed when
+blood-glucose control has been achieved.h
+Initial treatment
+g Standard-release metformin hydrochloride is
+recommended as theﬁrst choice for initial drug treatment
+for all patients, due to its positive effect on weight loss,
+reduced risk of hypoglycaemic events, and the additional
+long-term cardiovascular beneﬁts associated with its use.
+The dose of standard-release metformin should be
+increased gradually to minimise the risk of gastro-intestinal
+side-effects. Modiﬁed-release metformin should be offered if
+the patient experiences gastro-intestinal side-effects with
+standard treatment.
+In addition to metformin, patients with chronic heart
+failure or established atherosclerotic cardiovascular disease
+should also be offered a sodium glucose co-transporter2
+(SGLT2) inhibitor with proven cardiovascular beneﬁta s
+initial drug treatment. An SGLT2 inhibitor should also be
+considered for patients who are at high risk of developing
+cardiovascular disease. Metformin should be initiatedﬁrst,
+with the SGLT2 inhibitor started as soon as tolerability to
+metformin is conﬁrmed. h
+If metformin is contra-indicated or not tolerated, seeNon-
+metformin regimensbelow.
+Further treatment options
+g At any stage after starting initial treatment, an SGLT2
+inhibitor with proven cardiovascular beneﬁt should be
+offered to patients who develop chronic heart failure or
+established atherosclerotic cardiovascular disease, and
+should be considered in patients who become at high risk of
+developing cardiovascular disease.
+If monotherapy with metformin hydrochloride p.771
+(alongside modiﬁcation to diet) does not control HbA1ct o
+below the agreed threshold, consider metformin
+hydrochloride in combination with either a
+dipeptidylpeptidase-4 (DPP-4) inhibitor, or pioglitazone
+p. 791, or a sulfonylurea. A sodium glucose co-transporter2
+(SGLT2) inhibitor may be considered in combination with
+metformin, when sulfonylureas are contra-indicated or not
+tolerated, or if the patient is at signiﬁcant risk of
+hypoglycaemia or its consequences.
+If dual therapy is unsuccessful, consider a triple therapy
+regimen by adding in either a DPP-4 inhibitor, or
+pioglitazone, or a sulfonylurea. An SGLT2 inhibitor may be
+considered in the following triple therapy regimens:
+. Metformin hydrochloride and a sulfonylurea, and either
+canagliﬂozin p.783, dapagliﬂozin p.784, or empagliﬂozin
+p. 786; or
+. Metformin hydrochloride and pioglitazone, and either
+canagliﬂozin or empagliﬂozin; or
+. Metformin hydrochloride and a DPP-4 inhibitor and
+ertugliﬂozin p.788 (only if a sulfonylurea or pioglitazone
+is not appropriate).
+Alternatively, if dual therapy is unsuccessful, it may be
+appropriate to startinsulin-based treatment— see Drug
+treatment, insulin. h
+g Elderly patients or those with renal impairment are at
+particular risk of hypoglycaemia; if a sulfonylurea is
+indicated, a shorter-acting sulfonylurea, such as gliclazide
+p.789 or tolbutamide p.790 should be prescribed.l
+Glucagon-like peptide-1 receptor agonists
+g If triple therapy with metformin hydrochloride and two
+other oral drugs is tried and is not effective, or is not
+tolerated or contra-indicated, a glucagon-like peptide-1
+(GLP-1) receptor agonist may be considered as part of a
+triple therapy regimen by switching one of the other drugs
+for a GLP-1 receptor agonist.
+These should only be considered for patients who have a
+BMI of35 kg/m2or above(adjusted for ethnicity)and who
+also have speciﬁc psychological or medical problems
+associated with obesity;or for those who have a BMIlower
+than 35 kg/m2 and for whom insulin therapy would have
+signiﬁcant occupational implicationsor if the weight loss
+associated with GLP-1 receptor agonists would beneﬁt other
+signiﬁcant obesity-related comorbidities.
+GLP-1 receptor agonist therapies with proven
+cardiovascular beneﬁt (such as liraglutide) should be
+considered in patients with established cardiovascular
+disease.
+After 6 months, the GLP-1 receptor agonist should be
+reviewed and only continued if there has been a beneﬁcial
+metabolic response (a reduction of at least11 mmol/mol
+[1.0%] in HbA1c and a weight loss of at least3% of initial
+body-weight).
+Insulin should only be prescribed in combination with a
+GLP-1 receptor agonist under specialist care advice and with
+ongoing support from a consultant-led multidisciplinary
+team. h
+Non-metformin regimens
+g If metformin is contra-indicated or not tolerated, a
+sodium glucose co-transporter2 (SGLT2) inhibitor with
+proven cardiovascular beneﬁt should be offered asﬁrst-line
+treatment for patients who have chronic heart failure or
+established atherosclerotic cardiovascular disease. An SGLT2
+inhibitor should also be considered for patients who are at
+high risk of developing cardiovascular disease.
+For all other patients, consider a dipeptidylpeptidase-4
+(DPP-4) inhibitor, or pioglitazone, or a sulfonylurea asﬁrst-
+line drug treatment if metformin is contra-indicated or not
+tolerated. An SGLT2 inhibitor may be considered as an
+alternative option to a DPP-4 inhibitor, if neither a
+sulfonylurea or pioglitazone are appropriate.
+Repaglinide p.782 is also an effective alternative option
+for single therapy, but it has a limited role in treatment
+because, should an intensiﬁcation of treatment be required,
+it is not licensed to be used in any combination other than
+with metformin hydrochloride; it would therefore require a
+complete change of treatment in those patients who have
+started it due to intolerance or contra-indication to
+metformin. h
+766 Diabetes mellitus and hypoglycaemia BNF 85
+Endocrine system
+6
+https://www.facebook.com/codemedicalapps/
+(Books-Courses-Medical Applications)' metadata={'creationdate': '2023-07-18T15:17:04+03:30', 'creator': 'PDF Shaper', 'author': 'someAuthor', 'moddate': '2023-12-14T07:53:00+00:00', 'page': 784, 'total_pages': 1906, 'producer': 'iLovePDF', 'pk': 456198705166157006, 'username': '', 'library': '', 'source': 'C:\\Users\\USER\\Documents\\hackathon\\British National Formulary (BNF85) March to September 2023.pdf', 'page_label': '766'}
+accelerate==1.3.0
+aiohappyeyeballs==2.4.4
+aiohttp==3.11.12
+aiohttp-cors==0.7.0
+aiosignal==1.3.2
+airportsdata==20241001
+annotated-types==0.7.0
+anyio==4.8.0
+astor==0.8.1
+asttokens==3.0.0
+async-timeout==4.0.3
+attrs==25.1.0
+beautifulsoup4==4.13.3
+blake3==1.0.4
+cachetools==5.5.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+cloudpickle==3.1.1
+colorama==0.4.6
+colorful==0.5.6
+comm==0.2.2
+compressed-tensors==0.8.1
+dataclasses-json==0.6.7
+debugpy==1.8.12
+decorator==5.1.1
+depyf==0.18.0
+dill==0.3.9
+diskcache==5.6.3
+distlib==0.3.9
+distro==1.9.0
+docling==2.24.0
+docling-core==2.20.0
+docling-ibm-models==3.4.0
+docling-parse==3.4.0
+easyocr==1.7.2
+einops==0.8.0
+et_xmlfile==2.0.0
+exceptiongroup==1.2.2
+executing==2.2.0
+fastapi==0.115.8
+filelock==3.17.0
+filetype==1.2.0
+frozenlist==1.5.0
+fsspec==2025.2.0
+gguf==0.10.0
+google-api-core==2.24.1
+google-auth==2.38.0
+googleapis-common-protos==1.66.0
+greenlet==3.1.1
+grpcio==1.67.1
+h11==0.14.0
+httpcore==1.0.7
+httptools==0.6.4
+httpx==0.28.1
+httpx-sse==0.4.0
+huggingface-hub==0.28.1
+idna==3.10
+imageio==2.37.0
+importlib_metadata==8.6.1
+interegular==0.3.3
+ipykernel==6.29.5
+ipython==8.18.1
+jedi==0.19.2
+Jinja2==3.1.4
+jiter==0.8.2
+joblib==1.4.2
+jsonlines==3.1.0
+jsonpatch==1.33
+jsonpointer==3.0.0
+jsonref==1.1.0
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-core==0.3.37
+langchain-docling==0.2.0
+langchain-huggingface==0.1.2
+langchain-milvus==0.1.8
+langchain-ollama==0.2.3
+langchain-text-splitters==0.3.6
+langsmith==0.3.10
+lark==1.2.2
+latex2mathml==3.77.0
+lazy_loader==0.4
+lm-format-enforcer==0.10.9
+lxml==5.3.1
+markdown-it-py==3.0.0
+marko==2.1.2
+MarkupSafe==2.1.5
+marshmallow==3.26.1
+matplotlib-inline==0.1.7
+mdurl==0.1.2
+mistral_common==1.5.2
+mpire==2.10.2
+mpmath==1.3.0
+msgpack==1.1.0
+msgspec==0.19.0
+multidict==6.1.0
+multiprocess==0.70.17
+mypy-extensions==1.0.0
+nest-asyncio==1.6.0
+networkx==3.2.1
+ninja==1.11.1.3
+numpy==1.26.4
+nvidia-ml-py==12.570.86
+ollama==0.4.7
+openai==1.61.1
+opencensus==0.11.4
+opencensus-context==0.1.3
+opencv-python-headless==4.11.0.86
+openpyxl==3.1.5
+orjson==3.10.15
+outlines==0.1.11
+outlines_core==0.1.26
+packaging==24.2
+pandas==2.2.3
+parso==0.8.4
+partial-json-parser==0.2.1.1.post5
+pillow==10.4.0
+platformdirs==4.3.6
+prometheus-fastapi-instrumentator==7.0.2
+prometheus_client==0.21.1
+prompt_toolkit==3.0.50
+propcache==0.2.1
+proto-plus==1.26.0
+protobuf==5.29.3
+psutil==6.1.1
+pure_eval==0.2.3
+py-cpuinfo==9.0.0
+py-spy==0.4.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
+pyclipper==1.3.0.post6
+pycountry==24.6.1
+pydantic==2.10.6
+pydantic-settings==2.8.0
+pydantic_core==2.27.2
+Pygments==2.19.1
+pymilvus==2.5.4
+pypdfium2==4.30.1
+python-bidi==0.6.6
+python-dateutil==2.9.0.post0
+python-docx==1.1.2
+python-dotenv==1.0.1
+python-pptx==1.0.2
+pytz==2025.1
+pywin32==308
+PyYAML==6.0.2
+pyzmq==26.2.1
+ray==2.42.0
+referencing==0.36.2
+regex==2024.11.6
+requests==2.32.3
+requests-toolbelt==1.0.0
+rich==13.9.4
+rpds-py==0.22.3
+rsa==4.9
+Rtree==1.3.0
+safetensors==0.5.2
+scikit-image==0.24.0
+scikit-learn==1.6.1
+scipy==1.13.1
+semchunk==2.2.2
+sentence-transformers==3.4.1
+sentencepiece==0.2.0
+shapely==2.0.7
+shellingham==1.5.4
+six==1.17.0
+smart-open==7.1.0
+sniffio==1.3.1
+soupsieve==2.6
+SQLAlchemy==2.0.38
+stack-data==0.6.3
+starlette==0.45.3
+sympy==1.13.1
+tabulate==0.9.0
+tenacity==9.0.0
+threadpoolctl==3.5.0
+tifffile==2024.8.30
+tiktoken==0.7.0
+tokenizers==0.21.0
+torch==2.6.0+cu126
+torchaudio==2.6.0+cu126
+torchvision==0.21.0+cu126
+tornado==6.4.2
+tqdm==4.67.1
+traitlets==5.14.3
+transformers @ git+https://github.com/huggingface/transformers@006d9249ec0270ff6c4d3840979d23fe94bdc763
+typer==0.12.5
+typing-inspect==0.9.0
+typing_extensions==4.12.2
+tzdata==2025.1
+ujson==5.10.0
+urllib3==2.3.0
+uvicorn==0.34.0
+virtualenv==20.29.1
+watchfiles==1.0.4
+wcwidth==0.2.13
+websockets==14.2
+wrapt==1.17.2
+XlsxWriter==3.2.2
+yarl==1.18.3
+zipp==3.21.0
+zstandard==0.23.0
+Requirement already satisfied: langchain_community in h:\github\general-python-coding\venv\lib\site-packages (0.3.18)
+Collecting pypdf
+  Downloading pypdf-5.3.0-py3-none-any.whl (300 kB)
+     -------------------------------------- 300.7/300.7 KB 6.2 MB/s eta 0:00:00
+Requirement already satisfied: SQLAlchemy<3,>=1.4 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (2.0.38)
+Requirement already satisfied: langsmith<0.4,>=0.1.125 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (0.3.10)
+Requirement already satisfied: langchain<1.0.0,>=0.3.19 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (0.3.19)
+Requirement already satisfied: PyYAML>=5.3 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (6.0.2)
+Requirement already satisfied: requests<3,>=2 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (2.32.3)
+Requirement already satisfied: pydantic-settings<3.0.0,>=2.4.0 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (2.8.0)
+Requirement already satisfied: numpy<2,>=1.26.4 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (1.26.4)
+Requirement already satisfied: dataclasses-json<0.7,>=0.5.7 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (0.6.7)
+Requirement already satisfied: aiohttp<4.0.0,>=3.8.3 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (3.11.12)
+Requirement already satisfied: httpx-sse<1.0.0,>=0.4.0 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (0.4.0)
+Requirement already satisfied: langchain-core<1.0.0,>=0.3.37 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (0.3.37)
+Requirement already satisfied: tenacity!=8.4.0,<10,>=8.1.0 in h:\github\general-python-coding\venv\lib\site-packages (from langchain_community) (9.0.0)
+Requirement already satisfied: typing_extensions>=4.0 in h:\github\general-python-coding\venv\lib\site-packages (from pypdf) (4.12.2)
+Requirement already satisfied: async-timeout<6.0,>=4.0 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (4.0.3)
+Requirement already satisfied: attrs>=17.3.0 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (25.1.0)
+Requirement already satisfied: propcache>=0.2.0 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (0.2.1)
+Requirement already satisfied: frozenlist>=1.1.1 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (1.5.0)
+Requirement already satisfied: aiohappyeyeballs>=2.3.0 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (2.4.4)
+Requirement already satisfied: multidict<7.0,>=4.5 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (6.1.0)
+Requirement already satisfied: yarl<2.0,>=1.17.0 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (1.18.3)
+Requirement already satisfied: aiosignal>=1.1.2 in h:\github\general-python-coding\venv\lib\site-packages (from aiohttp<4.0.0,>=3.8.3->langchain_community) (1.3.2)
+...
+Requirement already satisfied: exceptiongroup>=1.0.2 in h:\github\general-python-coding\venv\lib\site-packages (from anyio->httpx<1,>=0.23.0->langsmith<0.4,>=0.1.125->langchain_community) (1.2.2)
+Requirement already satisfied: sniffio>=1.1 in h:\github\general-python-coding\venv\lib\site-packages (from anyio->httpx<1,>=0.23.0->langsmith<0.4,>=0.1.125->langchain_community) (1.3.1)
+Installing collected packages: pypdf
+Successfully installed pypdf-5.3.0
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+WARNING: You are using pip version 22.0.4; however, version 25.0.1 is available.
+You should consider upgrading via the 'H:\GitHub\general-python-coding\venv\Scripts\python.exe -m pip install --upgrade pip' command.
+None
+{'producer': 'iLovePDF',
+ 'creator': 'PDF Shaper',
+ 'creationdate': '2023-07-18T15:17:04+03:30',
+ 'username': '',
+ 'library': '',
+ 'author': 'someAuthor',
+ 'moddate': '2023-12-14T07:53:00+00:00',
+ 'source': 'C:\\Users\\USER\\Documents\\hackathon\\British National Formulary '
+           '(BNF85) March to September 2023.pdf',
+ 'total_pages': 1906,
+ 'page': 0,
+ 'page_label': 'I'}
+Papaveretum is rarely used; morphine is easier to prescribe
+and less prone to error with regard to the strength and dose.
+Pentazocine p.506 has both agonist and antagonist
+properties and precipitates withdrawal symptoms, including
+pain in patients dependent on other opioids. By injection it
+is more potent than dihydrocodeine tartrate p.493 or
+codeine phosphate, but hallucinations and thought
+disturbances may occur. It is not recommended and, in
+particular, should be avoided after myocardial infarction as it
+may increase pulmonary and aortic blood pressure as well as
+cardiac work.
+Pethidine hydrochloride p.506 produces prompt but
+short-lasting analgesia; it is less constipating than
+morphine, but even in high doses is a less potent analgesic.
+It is not suitable for severe continuing pain. It is used for
+analgesia in labour; however, other opioids, such as
+morphine or diamorphine hydrochloride, are often preferred
+for obstetric pain.
+Tapentadol p.507 produces analgesia by two mechanisms.
+It is an opioid-receptor agonist and it also inhibits
+noradrenaline reuptake. Nausea, vomiting, and constipation
+are less likely to occur with tapentadol than with other
+strong opioid analgesics.
+Tramadol hydrochloride p.508 produces analgesia by two
+mechanisms: an opioid effect and an enhancement of
+serotonergic and adrenergic pathways. It has fewer of the
+typical opioid side-effects (notably, less respiratory
+depression, less constipation and less addiction potential);
+psychiatric reactions have been reported.
+Weak opioids
+Codeine phosphate can be used for the relief of mild to
+moderate pain where other painkillers such as paracetamol
+or ibuprofen p.1256 have proved ineffective.
+Dihydrocodeine tartrate has an analgesic efﬁcacy similar
+to that of codeine phosphate. Higher doses may provide
+some additional pain relief but this may be at the cost of
+more nausea and vomiting.
+Meptazinol p.500 is claimed to have a low incidence of
+repiratory depression. It has a reported length of action of
+2 to 7 hours with onset within15 minutes.
+Postoperative analgesia
+g Offer a multimodal approach using a combination of
+analgesics from different classes to manage postoperative
+pain.hFor further information on postoperative
+analgesia, see Peri-operative analgesia p.1478. The use of
+intra-operative opioids affects the prescribing of
+postoperative analgesics. A postoperative opioid analgesic
+should be given with care since it may potentiate any
+residual respiratory depression.
+Morphine p.500 is used most widely. Tramadol
+hydrochloride p.508 is not as effective in severe pain as
+other opioid analgesics. Buprenorphine p.486 may
+antagonise the analgesic effect of previously administered
+opioids and is generally not recommended. Pethidine
+hydrochloride p.506 is generally not recommended for
+postoperative pain because it is metabolised to norpethidine
+which may accumulate, particularly in renal impairment;
+norpethidine stimulates the central nervous system and may
+cause convulsions.
+Opioids are also given epidurally [unlicensed route] in the
+postoperative period but are associated with side-effects
+such as pruritus, urinary retention, nausea and vomiting;
+respiratory depression can be delayed, particularly with
+morphine.
+Patient-controlled analgesia (PCA) can be used to relieve
+postoperative pain— consult individual hospital protocols.
+Pain management and opioid dependence
+Although caution is necessary, patients who are dependent
+on opioids or have a history of drug dependence may be
+treated with opioid analgesics when there is a clinical need.
+Treatment with opioid analgesics in this patient group
+should normally be carried out with the advice of specialists.
+However, doctors do not require a special licence to
+prescribe opioid analgesics to patients with opioid
+dependence for relief of pain due to organic disease or injury.
+Other drugs used for PainDiclofenac potassium, p.1250 .
+Levomepromazine, p.478 . Mefenamic acid, p.1261
+ANAESTHETICS, GENERAL › VOLATILE LIQUID
+ANAESTHETICS
+Methoxyflurane 22-Jan-2019
+l INDICATIONS AND DOSE
+Moderate-to-severe pain associated with trauma (under
+close medical supervision)
+▶ BY INHALATION
+▶ Adult: 3–6 mL as required, avoid administration on
+consecutive days; administer using inhaler device;
+maximum 15 mL per week
+IMPORTANT SAFETY INFORMATION
+Manufacturer advises methoxyﬂurane should only be
+self-administered under the supervision of personnel
+experienced in its use, using a hand-heldPenthrox ®
+inhaler device.
+l CONTRA-INDICATIONS Cardiovascular disease. history of
+liver damage associated with use of methoxyﬂurane or
+other halogenated anaesthetics. impaired consciousness.
+respiratory depression.susceptibility to malignant
+hyperthermia
+l CAUTIONS Elderly— increased risk of hypotension.
+repeated administration more than once every 3 months—
+increased risk of hepatic injury. risk factors for hepatic
+impairment . risk factors for renal impairment
+l INTERACTIONS → Appendix 1: volatile halogenated
+anaesthetics
+l SIDE-EFFECTS
+▶ Common or very commonDizziness .drowsiness .dry
+mouth . headache . nausea
+▶ Uncommon Anxiety . appetite increased. chills .
+concentration impaired. cough . depression . fatigue .
+feeling abnormal. ﬂushing . hyperhidrosis . hypertension .
+hypotension . memory loss.mood altered. oral disorders.
+paraesthesia . peripheral neuropathy. speech impairment.
+taste altered. vision disorders. vomiting
+▶ Frequency not knownChoking .confusion . consciousness
+impaired . dissociation . hepatic disorders.hypoxia .
+nephrotoxicity (with high doses). nystagmus . renal failure
+l ALLERGY AND CROSS-SENSITIVITY Contra-indicated in
+patients with hypersensitivity toﬂuorinated anaesthetics.
+l PREGNANCY Manufacturer advises use with caution—
+limited information available.
+l BREAST FEEDING Manufacturer advises use with caution—
+limited information available.
+l HEPATIC IMPAIRMENT Manufacturer advises caution (risk
+of increased exposure).
+l RENAL IMPAIRMENT Manufacturer advises avoid.
+l PRESCRIBING AND DISPENSING INFORMATION The
+manufacturer ofPenthrox ® has provided anAdministration
+Checklist and anAdministration Guidefor healthcare
+professionals.
+l HANDLING AND STORAGE Manufacturer advises exposure
+of healthcare professionals to methoxyﬂurane should be
+minimised— risk of serious side-effects.
+l PATIENT AND CARER ADVICE Manufacturer advises that
+patients should be given advice on appropriate inhaler
+technique.
+482 Pain BNF 85
+Nervous system
+4
+https://www.facebook.com/codemedicalapps/
+(Books-Courses-Medical Applications)
